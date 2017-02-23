@@ -252,6 +252,7 @@ box-shadow: 0 4px 0 transparent;
 }
 .about-content .about-text .btn-custom{
   color: #fff;
+  text-transform: uppercase;
   background-color: #41B061;
   border: 2px solid transparent;
   transition: all .4s ease;
@@ -261,7 +262,7 @@ box-shadow: 0 4px 0 transparent;
 .about-content .about-text .btn-custom:hover{
   color: #41B061;
   background-color: #fff;
-  border: 32px solid #41B061;
+  border: 1px solid #41B061;
 }
 #recent-course{
   background-color: #efeded;

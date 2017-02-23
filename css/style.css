@@ -233,6 +233,9 @@ box-shadow: 0 4px 0 transparent;
   margin: 0;
   text-align: justify;
 }
+.about-content img{
+  padding-top: 27px;
+}
 .about-text h1{
   font-size: 18px;
   color:  #41B061;
